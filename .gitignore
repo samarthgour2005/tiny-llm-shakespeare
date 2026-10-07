@@ -1,0 +1,9 @@
+data/input.txt
+data/train.bin
+data/val.bin
+data/meta.pkl
+checkpoints/*.pt
+__pycache__/
+*.pyc
+ARCHITECTURE.md
+INTERVIEW_QUESTIONS.md
